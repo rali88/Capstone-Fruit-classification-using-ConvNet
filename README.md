@@ -8,11 +8,11 @@
    
 Image classification is increasingly being used in mobile applications. An example where classification of fruits will be helpful are applications which are used to track calorie intake. The first target of this project will be such mobile applications:
    
-    • Mobile applications that track calorie intake. Instead of manually entering the number of calories, users of such applications can just take a picture of the fruit that they are consuming and calories associated with that specific fruit can automatically be added. This will be a major attraction for users of such as application.   
+**Mobile applications that track calorie intake. Instead of manually entering the number of calories, users of such applications can      just take a picture of the fruit that they are consuming and calories associated with that specific fruit can automatically be added. This will be a major attraction for users of such as application.**   
        
 Another example where fruit classification can be helpful is the identification of grocery items in a grocery store. Sorting of these items and placing them in their respective aisles is a problem that can be automated with applications that can identify these items. The second target of this project will be such stores:   
 
-    • One item that most if not all major grocery markets carry are fruits. An application which can sort fruits automatically will be of great benefit for these markets. In a larger context, this will be a first step in developing an application that can recognize a wide range of items carried by these stores.   
+**One item that most if not all major grocery markets carry are fruits. An application which can sort fruits automatically will be of great benefit for these markets. In a larger context, this will be a first step in developing an application that can recognize a wide range of items carried by these stores.**   
        
 Apart from this specific project of classifying fruit images, image classification has applications across a wide range of businesses. From photo organization mobile applications to facial recognition used by social networking websites, image classification is being used to enhance business value and/or user experience. For example, identifying the type of damage a car has undergone can inform an insurance company about a potential claim and help them make an informed decision.   
    
@@ -41,13 +41,13 @@ We will use the split data sets from part 1 to build a simple convolution neural
 If the simple convolution neural network shows over fitting, then a new network with a drop out layer will be added to the network. Also, the training data will be augmented by randomly transforming training images so that the network does not see the image twice. As in part 2, plots of accuracy and loss will be used to test for over fitting and the model will be evaluated on the test data set.   
    
 ### Deliverable   
-
-    1. The different notebooks each for the different parts of the project:   
+   
+   1. The different notebooks each for the different parts of the project:   
        
-    • Notebook in which data manipulation and data splitting is performed.
-    • Notebook in which a simple convolution neural network is built and tested.
-    • Notebook in which convolution neural network with a drop out layer and data augmentation is built and tested.   
+      • [Notebook in which data manipulation and data splitting is performed.](https://github.com/rali88/Capstone-Project-2/blob/master/Getting%20data%20ready-kaggle%20Part-1.ipynb)      
+      • [Notebook in which a simple convolution neural network is built and tested.](https://github.com/rali88/Capstone-Project-2/blob/master/Simple-ConvNet-P-2.ipynb)   
+      • [Notebook in which convolution neural network with a drop out layer and data augmentation is built and tested.](https://github.com/rali88/Capstone-Project-2/blob/master/ConvNet-with-augmentation-P-3.ipynb)         
        
-    2. A complete report outlying the need for the analysis, the approach taken and the results obtained.    
-    3. A slide deck defining the problem, approach and the results obtained.
+   2. A complete report outlying the need for the analysis, the approach taken and the results obtained.    
+   3. A slide deck defining the problem, approach and the results obtained.
 
