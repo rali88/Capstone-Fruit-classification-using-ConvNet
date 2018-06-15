@@ -1,5 +1,3 @@
-# Capstone Project 2 for SpringBoard Data Science Career Track   
-   
 # Project proposal  
    
 ## Classification of fruit images using  deep learning  
